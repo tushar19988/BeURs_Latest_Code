@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Be URs</string>
+    <string name="facebook_app_id">1588186322582929</string>
+    <string name="fb_login_protocol_scheme">1588186322582929</string>
+    <string name="facebook_client_token">08a25c20b328bb514a18ba2bc32c5c60</string>
+</resources>
